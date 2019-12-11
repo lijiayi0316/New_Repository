@@ -1,1 +1,2 @@
 myChanges
+This is my [second change].
